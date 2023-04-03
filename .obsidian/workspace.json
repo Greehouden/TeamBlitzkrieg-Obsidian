@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "8f2b230bf8b2665b",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbd228eeb90e47aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8385a81a91524578",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ca692497bc03985",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Картки проєктів/Супер-Джет картка проєкту.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f5a1689fd6d49ad7",
+    "type": "split",
+    "children": [
+      {
+        "id": "979833541dbb49c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed976aea258a497f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e6074f1dc8431e7f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4b523bea2d3f8064",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bca4b38d362cfb44",
+    "type": "split",
+    "children": [
+      {
+        "id": "4110d99cf332553a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c9ea0cbeeee7c2c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Картки проєктів/Супер-Джет картка проєкту.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6a5407266cc0f35c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Картки проєктів/Супер-Джет картка проєкту.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bf49fed30dee3144",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2ce431bcd3b14953",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Картки проєктів/Супер-Джет картка проєкту.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню швидкого переходу": false,
+      "graph:Граф": false,
+      "canvas:Створити нове полотно": false,
+      "daily-notes:Сьогоднішня нотатка": false,
+      "templates:Вставити шаблон": false,
+      "command-palette:Відкрити палітру команд": false
+    }
+  },
+  "active": "ed976aea258a497f",
+  "lastOpenFiles": [
+    "Плани/Супер-джет/Супер-Джет Майстер-План.md",
+    "Приклад Документації/Супер-Джет Канви Ціннісної пропозиції.md",
+    "README.md",
+    "Майстер план Супер-Джету.md",
+    "Картки проєктів/Супер-Джет картка проєкту.md",
+    "Плани/Супер-джет",
+    "Плани",
+    "Приклад Документації",
+    "Картки проєктів"
+  ]
+}
